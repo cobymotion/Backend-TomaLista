@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 12 00:34:26 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016b-4a2e-221e-00000377a610 
+on database directory /home/luis/NetBeansProjects/ListaMaestro/db/termibabynometro.db with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/luis/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/luis/NetBeansProjects/ListaMaestro
+os.name=Linux
+os.arch=amd64
+os.version=4.9.0-9-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
